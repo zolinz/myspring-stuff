@@ -1,0 +1,5 @@
+.metadata/
+.recommenders/
+/.settings/
+SpringTest01/.settings/org.eclipse.jdt.core.prefs
+SpringTest01/.settings/org.eclipse.m2e.core.prefs
